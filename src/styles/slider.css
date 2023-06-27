@@ -42,7 +42,7 @@
     background-size: cover;
     animation-duration: 4s;
     animation-iteration-count: infinite;
-    -moz-animation-direction: alternate;
+    animation-direction: alternate;
 }
 
 
